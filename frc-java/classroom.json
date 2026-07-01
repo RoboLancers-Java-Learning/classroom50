@@ -1,0 +1,21 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "FRC Java",
+  "short_name": "frc-java",
+  "term": "Fall 2026",
+  "org": "RoboLancers-Java-Learning",
+  "team": {
+    "id": 18295681,
+    "slug": "classroom50-frc-java"
+  },
+  "teams": {
+    "instructor": {
+      "id": 18295682,
+      "slug": "classroom50-frc-java-instructor"
+    },
+    "ta": {
+      "id": 18295683,
+      "slug": "classroom50-frc-java-ta"
+    }
+  }
+}
