@@ -1,4 +1,55 @@
 {
   "schema": "classroom50/scores/v1",
-  "assignments": {}
+  "assignments": {
+    "basic-driving-robot-talon": {
+      "type": "individual",
+      "entries": [
+        {
+          "owner": "snvgglebear",
+          "submissions": [
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "frc-java",
+              "assignment_type": "individual",
+              "owner": "snvgglebear",
+              "submission": "submit/2026-07-02T02-07-52Z-fb5861b",
+              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/fb5861bfc3125cb4c2a13fec92606432f963c246",
+              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-02T02-07-52Z-fb5861b",
+              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/485ae8b24a12633a5015bdd6945b9ff551534c19...fb5861bfc3125cb4c2a13fec92606432f963c246",
+              "datetime": "2026-07-02T02:07:38Z",
+              "graded_at": "2026-07-02T02:08:08Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "snvgglebear",
+                "id": 26187177
+              },
+              "late": true
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "frc-java",
+              "assignment_type": "individual",
+              "owner": "snvgglebear",
+              "submission": "submit/2026-07-02T01-51-54Z-9e6e97a",
+              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/9e6e97a88aca4786e654aa20f3e7d80062302779",
+              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-02T01-51-54Z-9e6e97a",
+              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/485ae8b24a12633a5015bdd6945b9ff551534c19...9e6e97a88aca4786e654aa20f3e7d80062302779",
+              "datetime": "2026-07-02T01:51:41Z",
+              "graded_at": "2026-07-02T01:52:06Z",
+              "score": 0,
+              "max-score": 0,
+              "tests": [],
+              "submitted_by": {
+                "username": "snvgglebear",
+                "id": 26187177
+              },
+              "late": true
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
