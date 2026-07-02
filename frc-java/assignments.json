@@ -39,7 +39,17 @@
         "zone": "America/New_York",
         "offset": "-04:00",
         "source": "auto-detected"
-      }
+      },
+      "tests": [
+        {
+          "name": "Unit 1",
+          "type": "run",
+          "run": "./gradlew test --tests 'frc.robot.Unit1FieldDeclarationTest' --info",
+          "points": 20,
+          "setup": "chmod +x ./gradlew",
+          "timeout": 30
+        }
+      ]
     }
   ]
 }
