@@ -12,12 +12,12 @@
               "classroom": "frc-java",
               "assignment_type": "individual",
               "owner": "snvgglebear",
-              "submission": "submit/2026-07-02T02-07-52Z-fb5861b",
-              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/fb5861bfc3125cb4c2a13fec92606432f963c246",
-              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-02T02-07-52Z-fb5861b",
-              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/485ae8b24a12633a5015bdd6945b9ff551534c19...fb5861bfc3125cb4c2a13fec92606432f963c246",
-              "datetime": "2026-07-02T02:07:38Z",
-              "graded_at": "2026-07-02T02:30:32Z",
+              "submission": "submit/2026-07-02T03-01-38Z-4fccac6",
+              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/4fccac624963bcc35dad49cd3fbb902d4bffda5d",
+              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-02T03-01-38Z-4fccac6",
+              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/3b7c7a17d10637ddf40666a34f98bf06681c26b2...4fccac624963bcc35dad49cd3fbb902d4bffda5d",
+              "datetime": "2026-07-02T03:00:12Z",
+              "graded_at": "2026-07-02T03:02:24Z",
               "score": 0,
               "max-score": 100,
               "tests": [
@@ -57,15 +57,40 @@
               "classroom": "frc-java",
               "assignment_type": "individual",
               "owner": "snvgglebear",
-              "submission": "submit/2026-07-02T01-51-54Z-9e6e97a",
-              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/9e6e97a88aca4786e654aa20f3e7d80062302779",
-              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-02T01-51-54Z-9e6e97a",
-              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/485ae8b24a12633a5015bdd6945b9ff551534c19...9e6e97a88aca4786e654aa20f3e7d80062302779",
-              "datetime": "2026-07-02T01:51:41Z",
-              "graded_at": "2026-07-02T01:52:06Z",
+              "submission": "submit/2026-07-02T03-00-12Z-69a8b5c",
+              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/69a8b5c836bb4780fef3ea98dda206ae888d6df9",
+              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-02T03-00-12Z-69a8b5c",
+              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/3b7c7a17d10637ddf40666a34f98bf06681c26b2...69a8b5c836bb4780fef3ea98dda206ae888d6df9",
+              "datetime": "2026-07-02T02:59:59Z",
+              "graded_at": "2026-07-02T03:01:08Z",
               "score": 0,
-              "max-score": 0,
-              "tests": [],
+              "max-score": 100,
+              "tests": [
+                {
+                  "test-name": "Unit 1: Field Declarations",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 20
+                },
+                {
+                  "test-name": "Unit 2: Constants and Initialization",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 25
+                },
+                {
+                  "test-name": "Unit 3: Followers and driveArcade()",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 30
+                },
+                {
+                  "test-name": "Unit 4: RobotContainer Wiring",
+                  "passed": false,
+                  "score": 0,
+                  "max-score": 25
+                }
+              ],
               "submitted_by": {
                 "username": "snvgglebear",
                 "id": 26187177
