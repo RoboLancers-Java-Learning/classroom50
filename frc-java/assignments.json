@@ -33,9 +33,9 @@
         "branch": "main"
       },
       "description": "Basic driving robot setup.",
-      "due": "2026-07-02T00:14:00Z",
+      "due": "2026-07-10T00:14:00Z",
       "due_meta": {
-        "input": "2026-07-01T20:14:00",
+        "input": "2026-07-09T20:14:00",
         "zone": "America/New_York",
         "offset": "-04:00",
         "source": "auto-detected"
