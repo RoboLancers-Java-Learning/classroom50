@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Student notes: all questions answered",
+    "type": "run",
+    "setup": "chmod +x ./grading/check_student_notes.sh",
+    "run": "./grading/check_student_notes.sh",
+    "timeout": 30,
+    "points": 25
+  },
+  {
+    "name": ".gitignore: all three errors corrected",
+    "type": "run",
+    "setup": "chmod +x ./grading/check_gitignore.sh",
+    "run": "./grading/check_gitignore.sh",
+    "timeout": 30,
+    "points": 20
+  },
+  {
+    "name": "Commit message references a Question",
+    "type": "run",
+    "setup": "chmod +x ./grading/check_commit_message.sh",
+    "run": "./grading/check_commit_message.sh",
+    "timeout": 30,
+    "points": 15
+  },
+  {
+    "name": "Branch: naming convention followed",
+    "type": "run",
+    "setup": "chmod +x ./grading/check_branch_exists.sh",
+    "run": "./grading/check_branch_exists.sh",
+    "timeout": 30,
+    "points": 15
+  },
+  {
+    "name": "Pull request opened",
+    "type": "run",
+    "setup": "chmod +x ./grading/check_pr_exists.sh",
+    "run": "./grading/check_pr_exists.sh",
+    "timeout": 30,
+    "points": 15
+  },
+  {
+    "name": "Issue opened",
+    "type": "run",
+    "setup": "chmod +x ./grading/check_issue_exists.sh",
+    "run": "./grading/check_issue_exists.sh",
+    "timeout": 30,
+    "points": 10
+  }
+]
