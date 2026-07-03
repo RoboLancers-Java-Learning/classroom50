@@ -2,26 +2,6 @@
   "schema": "classroom50/assignments/v1",
   "assignments": [
     {
-      "slug": "github-basics",
-      "name": "Github Basics",
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "template": {
-        "owner": "RoboLancers-Java-Learning",
-        "repo": "Github-Basics",
-        "branch": "main"
-      },
-      "description": "Learning how to use Github.",
-      "due": "2026-07-01T23:48:00Z",
-      "due_meta": {
-        "input": "2026-07-01T19:48:00",
-        "zone": "America/New_York",
-        "offset": "-04:00",
-        "source": "auto-detected"
-      }
-    },
-    {
       "slug": "basic-driving-robot-talon",
       "name": "Basic Driving Robot-Talon",
       "mode": "individual",
@@ -71,6 +51,26 @@
           "timeout": 300
         }
       ]
+    },
+    {
+      "slug": "github-basics",
+      "name": "Github Basics",
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "template": {
+        "owner": "RoboLancers-Java-Learning",
+        "repo": "Github-Basics-2026",
+        "branch": "main"
+      },
+      "description": "Learning how to use Github.",
+      "due": "2026-07-01T23:48:00Z",
+      "due_meta": {
+        "input": "2026-07-01T19:48:00",
+        "zone": "America/New_York",
+        "offset": "-04:00",
+        "source": "auto-detected"
+      }
     }
   ]
 }
