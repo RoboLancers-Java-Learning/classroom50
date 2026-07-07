@@ -9,7 +9,7 @@
       "feedback_pr": true,
       "template": {
         "owner": "RoboLancers-Java-Learning",
-        "repo": "Basic-DriveTrain-2026",
+        "repo": "Basic-DriveTrain-talon",
         "branch": "main"
       },
       "description": "Basic driving robot setup.",
