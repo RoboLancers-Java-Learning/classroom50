@@ -12,19 +12,19 @@
               "classroom": "frc-java",
               "assignment_type": "individual",
               "owner": "snvgglebear",
-              "submission": "submit/2026-07-03T01-46-24Z-60a7a43",
-              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/60a7a43d3349d5c3f1f4e42f946bd1747f8cd53f",
-              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-03T01-46-24Z-60a7a43",
-              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/e6245bcb14c9364f290d355929d183dccbbc04bc...60a7a43d3349d5c3f1f4e42f946bd1747f8cd53f",
-              "datetime": "2026-07-03T01:46:09Z",
-              "graded_at": "2026-07-03T01:47:40Z",
-              "score": 20,
+              "submission": "submit/2026-07-07T02-10-59Z-d710bba",
+              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/d710bba8f8649df0e2649f0fc84671a132e608ac",
+              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-07T02-10-59Z-d710bba",
+              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/0db527f27413e40e80d72cf58815b339f2517e38...d710bba8f8649df0e2649f0fc84671a132e608ac",
+              "datetime": "2026-07-07T02:10:43Z",
+              "graded_at": "2026-07-07T02:11:59Z",
+              "score": 0,
               "max-score": 100,
               "tests": [
                 {
                   "test-name": "Unit 1: Field Declarations",
-                  "passed": true,
-                  "score": 20,
+                  "passed": false,
+                  "score": 0,
                   "max-score": 20
                 },
                 {
