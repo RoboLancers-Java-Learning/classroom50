@@ -12,13 +12,13 @@
               "classroom": "frc-java",
               "assignment_type": "individual",
               "owner": "snvgglebear",
-              "submission": "submit/2026-07-07T02-49-28Z-c5bfe59",
-              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/c5bfe5949e607ace40dbe1aca49acbb8904828bb",
-              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-07T02-49-28Z-c5bfe59",
-              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/0db527f27413e40e80d72cf58815b339f2517e38...c5bfe5949e607ace40dbe1aca49acbb8904828bb",
-              "datetime": "2026-07-07T02:49:14Z",
-              "graded_at": "2026-07-07T02:50:41Z",
-              "score": 20,
+              "submission": "submit/2026-07-08T22-30-25Z-f147df3",
+              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/f147df39dbac5272c82098d8d2332dc9813fe69f",
+              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-08T22-30-25Z-f147df3",
+              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/d59c937112c88bde75916cf4d7cadc0bfde7de83...f147df39dbac5272c82098d8d2332dc9813fe69f",
+              "datetime": "2026-07-08T22:30:08Z",
+              "graded_at": "2026-07-08T22:31:30Z",
+              "score": 45,
               "max-score": 100,
               "tests": [
                 {
@@ -29,8 +29,8 @@
                 },
                 {
                   "test-name": "Unit 2: Constants and Initialization",
-                  "passed": false,
-                  "score": 0,
+                  "passed": true,
+                  "score": 25,
                   "max-score": 25
                 },
                 {
@@ -57,13 +57,13 @@
               "classroom": "frc-java",
               "assignment_type": "individual",
               "owner": "snvgglebear",
-              "submission": "submit/2026-07-07T02-45-11Z-b03b2e4",
-              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/b03b2e4de32647191ed47797b3422b07b0119242",
-              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-07T02-45-11Z-b03b2e4",
-              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/0db527f27413e40e80d72cf58815b339f2517e38...b03b2e4de32647191ed47797b3422b07b0119242",
-              "datetime": "2026-07-07T02:45:00Z",
-              "graded_at": "2026-07-07T02:46:24Z",
-              "score": 20,
+              "submission": "submit/2026-07-08T22-25-25Z-1ff1de0",
+              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/1ff1de021627cf33b1ea6c31575113d10b48b269",
+              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-08T22-25-25Z-1ff1de0",
+              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/d59c937112c88bde75916cf4d7cadc0bfde7de83...1ff1de021627cf33b1ea6c31575113d10b48b269",
+              "datetime": "2026-07-08T22:25:13Z",
+              "graded_at": "2026-07-08T22:26:47Z",
+              "score": 45,
               "max-score": 100,
               "tests": [
                 {
@@ -74,53 +74,8 @@
                 },
                 {
                   "test-name": "Unit 2: Constants and Initialization",
-                  "passed": false,
-                  "score": 0,
-                  "max-score": 25
-                },
-                {
-                  "test-name": "Unit 3: Followers and driveArcade()",
-                  "passed": false,
-                  "score": 0,
-                  "max-score": 30
-                },
-                {
-                  "test-name": "Unit 4: RobotContainer Wiring",
-                  "passed": false,
-                  "score": 0,
-                  "max-score": 25
-                }
-              ],
-              "submitted_by": {
-                "username": "snvgglebear",
-                "id": 26187177
-              },
-              "late": false
-            },
-            {
-              "schema": "classroom50/result/v1",
-              "classroom": "frc-java",
-              "assignment_type": "individual",
-              "owner": "snvgglebear",
-              "submission": "submit/2026-07-07T02-10-59Z-d710bba",
-              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/d710bba8f8649df0e2649f0fc84671a132e608ac",
-              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-07T02-10-59Z-d710bba",
-              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/0db527f27413e40e80d72cf58815b339f2517e38...d710bba8f8649df0e2649f0fc84671a132e608ac",
-              "datetime": "2026-07-07T02:10:43Z",
-              "graded_at": "2026-07-07T02:25:44Z",
-              "score": 0,
-              "max-score": 100,
-              "tests": [
-                {
-                  "test-name": "Unit 1: Field Declarations",
-                  "passed": false,
-                  "score": 0,
-                  "max-score": 20
-                },
-                {
-                  "test-name": "Unit 2: Constants and Initialization",
-                  "passed": false,
-                  "score": 0,
+                  "passed": true,
+                  "score": 25,
                   "max-score": 25
                 },
                 {
