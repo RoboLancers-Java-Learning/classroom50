@@ -12,6 +12,51 @@
               "classroom": "frc-java",
               "assignment_type": "individual",
               "owner": "snvgglebear",
+              "submission": "submit/2026-07-09T00-41-23Z-4e1e7d8",
+              "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/4e1e7d8aab09bffefe1060f98249ca149e0d1c2d",
+              "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-09T00-41-23Z-4e1e7d8",
+              "review": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/compare/d59c937112c88bde75916cf4d7cadc0bfde7de83...4e1e7d8aab09bffefe1060f98249ca149e0d1c2d",
+              "datetime": "2026-07-09T00:41:08Z",
+              "graded_at": "2026-07-09T00:42:41Z",
+              "score": 100,
+              "max-score": 100,
+              "tests": [
+                {
+                  "test-name": "Unit 1: Field Declarations",
+                  "passed": true,
+                  "score": 20,
+                  "max-score": 20
+                },
+                {
+                  "test-name": "Unit 2: Constants and Initialization",
+                  "passed": true,
+                  "score": 25,
+                  "max-score": 25
+                },
+                {
+                  "test-name": "Unit 3: Followers and driveArcade()",
+                  "passed": true,
+                  "score": 30,
+                  "max-score": 30
+                },
+                {
+                  "test-name": "Unit 4: RobotContainer Wiring",
+                  "passed": true,
+                  "score": 25,
+                  "max-score": 25
+                }
+              ],
+              "submitted_by": {
+                "username": "snvgglebear",
+                "id": 26187177
+              },
+              "late": false
+            },
+            {
+              "schema": "classroom50/result/v1",
+              "classroom": "frc-java",
+              "assignment_type": "individual",
+              "owner": "snvgglebear",
               "submission": "submit/2026-07-08T22-54-46Z-035852e",
               "commit": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/commit/035852e3624046496f7e2937a2dd868d06a75a7c",
               "release": "https://github.com/RoboLancers-Java-Learning/frc-java-basic-driving-robot-talon-snvgglebear/releases/tag/submit%2F2026-07-08T22-54-46Z-035852e",
