@@ -1,0 +1,25 @@
+{
+  "schema": "classroom50/classroom/v1",
+  "name": "Learning Programming",
+  "short_name": "learning-programming",
+  "term": "",
+  "org": "RoboLancers-Java-Learning",
+  "team": {
+    "id": 20821814,
+    "slug": "classroom50-learning-programming"
+  },
+  "teams": {
+    "teacher": {
+      "id": 20821815,
+      "slug": "classroom50-learning-programming-teacher"
+    },
+    "hta": {
+      "id": 20821817,
+      "slug": "classroom50-learning-programming-hta"
+    },
+    "ta": {
+      "id": 20821818,
+      "slug": "classroom50-learning-programming-ta"
+    }
+  }
+}
